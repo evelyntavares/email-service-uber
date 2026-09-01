@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: email-service
+
+aws:
+  region: us-east-2
+  access-key: ${AWS_ACCESS_KEY_ID}
+  secret-key: ${AWS_SECRET_ACCESS_KEY}
