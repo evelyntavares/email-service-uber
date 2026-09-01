@@ -1,0 +1,6 @@
+.idea
+/target/*
+hs_err_pid*
+
+.vscode/
+.code-workspace
